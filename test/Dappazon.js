@@ -129,7 +129,7 @@ describe("Dappazon", () => {
     })
     
     it("Updates the contract balance", async () => {
-      const result = await ethers.provider.getBalance(deployer.address)
+      const result = await ethers.provider.getBalance(dappazon.address)
       expect(result).to.equal(0)
     })
     
