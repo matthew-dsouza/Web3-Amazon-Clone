@@ -12,7 +12,7 @@
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
-### 1. Clone/Download the Repository
+### 1. Clean the Repository
 
 ### 2. Install Dependencies:
 `$ npm install`
@@ -29,3 +29,5 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`# Web3-Amazon-Clone
+
+- [Google Drive](https://drive.google.com/drive/folders/1OMo8tkkL0Z0xQVFZGI4NbuIgicxhxrqY?usp=share_link) (Google Drive link)
